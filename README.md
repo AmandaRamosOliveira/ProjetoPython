@@ -19,7 +19,7 @@ Como o tema era livre, escolhi criar um bloco de notas com tela de login, cadast
 
  Obs: Não consegui usar a biblioteca oficial mysql-connector, então utilizei pymysql para conectar ao MySQL.
 
-**Por que escolhe esse tema?**
+**Por que escolhi esse tema?**
 
 Uma das coisas que eu mais gosto é criar notas no bloco de notas do meu celular. Me sinto mais organizada assim. Mesmo existindo outras plataformas para criar listas, o bloco de notas tem o meu coração. 💗
 
