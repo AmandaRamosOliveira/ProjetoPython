@@ -17,7 +17,7 @@ Durante as aulas, ele nos ensinou a criar funções em Python, a importar arquiv
 
 Como o tema era livre, escolhi criar um bloco de notas com tela de login, cadastro e o próprio bloco de notas, contendo subtelas para visualizar notas salvas e criar novas anotações.
 
-    Obs: Não consegui usar a biblioteca oficial mysql-connector, então utilizei pymysql para conectar ao MySQL.
+ Obs: Não consegui usar a biblioteca oficial mysql-connector, então utilizei pymysql para conectar ao MySQL.
 
 **Por que escolhe esse tema?**
 
@@ -32,7 +32,9 @@ Como esse foi o meu primeiro projeto em Python, tudo parecia complicado no come�
 **Se quiser testar:**
 
 ◾ Crie um banco de dados chamado cadastro.
+
 ◾ Crie uma tabela chamada cadastroInfor, com os atributos id, email e senha.
+
 ◾ Crie uma tabela chamada notas com os atributos id, usuario_id, conteudo e defina usuario_id como chave estrangeira referenciando cadastroInfor(id).
 
 
